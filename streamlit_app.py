@@ -141,7 +141,7 @@ if menu == "Inicio":
     col1, col2 = st.columns([2, 1])
     
     with col1:
-        st.image("https://img.freepik.com/vector-gratis/ilustracion-concepto-turbina-eolica_114360-2800.jpg", use_column_width=True)
+        st.image("https://img.freepik.com/vector-gratis/ilustracion-concepto-turbina-eolica_114360-2800.jpg", use_container_width=True)
     
     with col2:
         st.markdown('<div class="card">', unsafe_allow_html=True)
@@ -367,7 +367,7 @@ elif menu == "Acerca de":
     st.markdown("""
     ### Información del Proyecto
     
-    Esta aplicación fue desarrollada como herramienta de visualización para analizar datos sobre el potencial y desarrollo
+    Esta aplicación fue desarrollada como herramienta de visualización para analizar datos sobre el desarrollo y el valor
     de la energía eólica en Colombia. 
     
     ### Fuente de Datos
@@ -380,6 +380,7 @@ elif menu == "Acerca de":
     - **Streamlit**: Framework para desarrollo de aplicaciones web de datos
     - **Pandas**: Manipulación y análisis de datos
     - **Folium**: Visualización de mapas interactivos
-    - **Plotly**: Gráficos interactivos""")
+    - **Plotly**: Gráficos interactivos
+    - **Entre otros** """)
     
     
