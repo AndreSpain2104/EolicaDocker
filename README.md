@@ -12,10 +12,6 @@ El objetivo de este proyecto es ofrecer una herramienta visual para entender la 
 La aplicación está organizada en varias secciones navegables:
 
 ### **Página de Inicio**
-- **Bienvenida**: Una introducción al proyecto y su propósito.
-- **Métricas Clave (KPIs)**: Tarjetas con estadísticas generales como el total de registros, número de departamentos y categorías analizadas.
-- **Panorama General**: Un gráfico de barras que resume el valor promedio por cada categoría de datos.
-
 ### **Análisis Descriptivo**
 - **Filtros Globales**: Permite filtrar los datos por `Departamento` y `Categoría` para un análisis más específico.
 - **Visualización de Datos**: Muestra los datos filtrados en una tabla expandible.
@@ -34,9 +30,6 @@ La aplicación está organizada en varias secciones navegables:
     - **Mapa de Calor (Heatmap)**: Muestra la concentración de datos.
     - **Clusters**: Agrupa marcadores cercanos para una visualización más limpia.
 - **Filtro por Categoría**: Permite seleccionar qué categoría específica se desea visualizar en el mapa.
-
-### **Acerca de**
-- Información sobre el proyecto, las tecnologías utilizadas y la fuente de los datos.
 
 ## Tecnologías Utilizadas
 
@@ -58,7 +51,7 @@ La aplicación está organizada en varias secciones navegables:
 ```
 
 
-## 📈 Fuente de Datos
+## Fuente de Datos
 
 Los datos utilizados en esta aplicación provienen del siguiente repositorio:
 *   **GitHub - Datos_DATAVIZ**: [https://github.com/Kalbam/Datos_DATAVIZ](https://github.com/Kalbam/Datos_DATAVIZ)
