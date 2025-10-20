@@ -40,7 +40,7 @@ La aplicación está organizada en varias secciones navegables:
 - **Folium**: Para la creación de mapas interactivos.
 - **Docker**: Para la contenerización y despliegue de la aplicación.
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 .
